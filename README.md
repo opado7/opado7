@@ -1,12 +1,15 @@
 <div>
   
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=Rect&text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=Rect&text=Profile)
 
 </div>
 
 <div>
 <!--Body-->
+
+## :moyai: About me
+#### Kangwon-University
   
 ## :star2: Tech Stack
 

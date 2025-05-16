@@ -1,4 +1,3 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=#ffffc5&height=300&section=header&text=Hello%World!)
 <!--
 **opado7/opado7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

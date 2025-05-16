@@ -10,8 +10,6 @@
   
 ## :star2: Tech Stack
 
-<hr>
-
 #### Learning...
 
 <br/>

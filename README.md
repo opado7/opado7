@@ -9,7 +9,7 @@
 <!--Body-->
 
 ## :moyai: About me
-#### As a Kangwon University student
+#### Current student at Kangwon University
   
 ## :star2: Tech Stack
 

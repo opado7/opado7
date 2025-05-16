@@ -5,7 +5,7 @@
 </div>
 
 <div>
-Tech Stack
+## :star2:Tech Stack
 <hr>
 Learning...
 <br>

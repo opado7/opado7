@@ -1,11 +1,4 @@
 <div>
-  
-<!--Header-->
-![header](https://capsule-render.vercel.app/api?type=Soft&color=BCD3F9&height=300&text=Profile&fontColor=333333)
-
-</div>
-
-<div>
 <!--Body-->
 
 ## :moyai: About me
